@@ -1,0 +1,13 @@
+{
+  "name": "node-express-start-boilerplate",
+  "version": "1.0.0",
+  "description": "node boilerplate for many thing",
+  "author": "Giovanny-DS <Giovannny99@gmail.com>",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
