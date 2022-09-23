@@ -1,28 +1,27 @@
 # react-node-interview
 
 ##Back
-
-Armar estructura de archivos a preferencia
+Armar la estructura de archivos a preferencia (controladores,rutas,etc)
 
 Consumir Api https://pokeapi.co/
 
-Obtener mediante paginacion la lista de pokemons
+Obtener mediante paginación la lista de Pokémon
 
-Ordenar alfabeticamente la lista de Pokemon's
+Filtrar por los que tengan menos de 5 letras 
+
+Ordenar alfabéticamente y mostrar la lista de Pokemon's 
 
 Exponer un endpoint para consumirlos desde el frontend
 
-
 ##Front
 
-Armar estructura de archivos a preferencia
+Armar la estructura de archivos a preferencia 
 
 Consumir la Api expuesta por el backend que entrega los Pokemon's
 
 De preferencia usar hooks para el consumo y manejo de datos
 
-Listar los pokemon's por paginacion
-
+Listar los pokemon's por paginación
 
 
   
