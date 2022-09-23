@@ -1,6 +1,6 @@
 # react-node-interview
 
-##Back
+## Back
 Armar la estructura de archivos a preferencia (controladores,rutas,etc)
 
 Consumir Api https://pokeapi.co/
@@ -13,7 +13,7 @@ Ordenar alfabéticamente y mostrar la lista de Pokemon's
 
 Exponer un endpoint para consumirlos desde el frontend
 
-##Front
+## Front
 
 Armar la estructura de archivos a preferencia 
 
